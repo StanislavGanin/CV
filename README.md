@@ -1,2 +1,2 @@
 # Сайт-визитка
-CSS+HTML+JS+favicon
+CSS+HTML+JS
